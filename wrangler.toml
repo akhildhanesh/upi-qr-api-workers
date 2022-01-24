@@ -1,0 +1,10 @@
+name = "qr-code-upi"
+type = "webpack"
+
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2022-01-22"
+
+bucket = "./public"
